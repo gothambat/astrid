@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {color:#484a4e !important;}
+.navbar-nav a {font-size: 2em !important;}
+.home-banner-area .template-name {font-size:35px;}
+/*.home-banner-area .banner-content p {font-size:30px;
+margin-top:30px !important;}
+*/
+
+.home-banner-area .overlay {
+    background: rgb(72 30 9 / 60%);
+}
+.footer-area {color:#ffffff;}
+
+@media screen and (min-width: 500px){
+	.richmond {text-align:right;
+		}
+
+
+}
+@media screen and (min-width: 250px){
+	.richmond {
+		margin-top:0px !important;}
+
+
+}
