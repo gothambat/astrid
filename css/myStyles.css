@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {color:#484a4e !important;}
-.navbar-nav a {font-size: 2em !important;}
+.navbar-nav a {font-size: 1.25em !important;}
 .home-banner-area .template-name {font-size:35px;}
 /*.home-banner-area .banner-content p {font-size:30px;
 margin-top:30px !important;}
@@ -24,4 +24,24 @@ margin-top:30px !important;}
 		margin-top:0px !important;}
 
 
+}
+.mylogo {width:75%;
+		}
+@media screen and (max-width: 991px){
+	.mylogo {width:50%;
+		}
+
+
+}
+.marginTop {margin-top:35px;}
+.marginBottom {margin-bottom:75px !important;}
+
+/* add background to top of each page */
+.nosotros {
+    background: url("../img/banners/nosotros_banner.jpg") no-repeat;
+    background-size: cover;
+}
+.nosotros {
+    background: url("../img/banners/mision_banner.jpg") no-repeat;
+    background-size: cover;
 }
