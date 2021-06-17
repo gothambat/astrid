@@ -9,7 +9,7 @@ margin-top:30px !important;}
 */
 
 .home-banner-area .overlay {
-    background: rgb(72 30 9 / 60%);
+    background: rgb(9 31 72 / 60%);
 }
 .footer-area {color:#ffffff;}
 
@@ -37,13 +37,16 @@ margin-top:30px !important;}
 .marginBottom {margin-bottom:75px !important;}
 
 /* add background to top of each page */
+
 .nosotros {
     background: url("../img/banners/nosotros_banner.jpg") no-repeat;
     background-size: cover;
 }
-.nosotros {
-    background: url("../img/banners/mision_banner.jpg") no-repeat;
-    background-size: cover;
+.mision {
+    background: url("../img/banners/mision_banner2.jpg") no-repeat;
+    /*background-size: cover;*/
+	width:100%;
+	height:auto;
 }
 
 .video-container {
