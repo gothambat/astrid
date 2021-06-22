@@ -39,14 +39,20 @@ margin-top:30px !important;}
 /* add background to top of each page */
 
 .nosotros {
-    background: url("../img/banners/nosotros_banner.jpg") no-repeat;
-    background-size: cover;
+  width: 100%;
+  height: auto;
+  background: url("../img/banners/pottery_5.jpg") no-repeat center center fixed;
+/*background: url("../img/wine.jpg") no-repeat center center fixed;*/
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .mision {
-    background: url("../img/banners/mision_banner2.jpg") no-repeat;
+     width: 100%;
+  height: auto;
+  background: url("../img/banners/mision_banner3.jpeg") no-repeat;
     /*background-size: cover;*/
-	width:100%;
-	height:auto;
+background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .video-container {

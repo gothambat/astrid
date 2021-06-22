@@ -1020,7 +1020,7 @@ td, th {
 }.home-banner-area .banner-content p {
     font-size: 1.5em;
     font-weight: 300;
-    text-transform: uppercase;
+    text-transform: none;
     color: #fff;
 }
 .home-banner-area .banner-content .primary-btn {
