@@ -46,10 +46,38 @@ margin-top:30px !important;}
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .mision {
-     width: 100%;
+     max-width: 1920px;
   height: auto;
-  background: url("../img/banners/mision_banner3.jpeg") no-repeat;
+  background: url("../img/banners/007_half.jpg") no-repeat;
+    /*background-size: cover;*/
+background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.predicas {
+     max-width: 1920px;
+  height: auto;
+  background: url("../img/banners/006_half.jpg") no-repeat;
+    /*background-size: cover;*/
+background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.galeria {
+     max-width: 1920px;
+  height: auto;
+  background: url("../img/banners/004_half.jpg") no-repeat;
+    /*background-size: cover;*/
+background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contactanos {
+     max-width: 1920px;
+  height: auto;
+  background: url("../img/banners/001_half.jpg") no-repeat;
     /*background-size: cover;*/
 background-repeat: no-repeat;
   background-size: cover;
@@ -70,4 +98,7 @@ background-repeat: no-repeat;
     font-family: "Roboto", sans-serif;
     border-radius: 0px;
     padding-left: 20px;
+}
+.portfolio img{
+      padding-bottom: 5px;
 }
